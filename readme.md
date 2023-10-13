@@ -313,6 +313,6 @@ cuando se corre el proyecto hay un problema el cual no supe identificar porque s
 ### Deseo expresar mi más profundo agradecimiento a todos los profesores por la excepcional calidad de su enseñanza y la claridad con la que transmitieron los temas durante el curso.
 ### Ha sido un auténtico privilegio haber tenido la oportunidad de aprender de ustedes. Además, me gustaría destacar el esfuerzo y dedicación de mis compañeros, quienes demostraron ser verdaderos genios, por su buena onda y su forma en la que nos ayudamos y potenciamos mutuamente. Hemos conformado un grupo excepcional que hizo que esta experiencia fuera realmente enriquecedora.
 
-## Espero que en el futuro tengamos la posibilidad de cruzar caminos nuevamente, ya sea en otro curso o, quién sabe, en un entorno de trabajo. Cada uno de ustedes, sin lugar a dudas, son auténticos expertos en su campo. Quiero expresar mi agradecimiento especial a Sergio, Fran, Dani y al profesor que sustituyó a Sergio (mis disculpas por olvidar su nombre), por su incansable dedicación y apoyo.
+### Espero que en el futuro tengamos la posibilidad de cruzar caminos nuevamente, ya sea en otro curso o, quién sabe, en un entorno de trabajo. Cada uno de ustedes, sin lugar a dudas, son auténticos expertos en su campo. Quiero expresar mi agradecimiento especial a Sergio, Fran, Dani y al profesor que sustituyó a Sergio (mis disculpas por olvidar su nombre), por su incansable dedicación y apoyo.
 
 ### Con gratitud, Herrera Nahuel
